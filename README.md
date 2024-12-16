@@ -1,19 +1,19 @@
-<h1 align="center">Hola 👋, Soy Josue Aron Campos Quiroz</h1>
-<h3 align="center">Ingeniero Informático | Apasionado por la Nube ☁️, Machine Learning 🤖 y el Análisis de Datos 📊 | Python 🐍 | SQL | Azure & AWS & Huawei Cloud</h3>
+<h1 align="center">Hello 👋, I'm Josue Aron Campos Quiroz</h1>
+<h3 align="center">Computer Engineer | Passionate about the Cloud ☁️, Machine Learning 🤖, and Data Analysis 📊 | Python 🐍 | SQL | Azure & AWS & Huawei Cloud</h3>
 
-- 🔭 I’m currently working on **Aplicación móvil para la detección y evaluación de roya en plantas de maíz**
+- 💡 I’m currently working on **A mobile application for detecting and evaluating rust disease in maize plants**
 
-- 🌱 I’m currently learning **Science Data & IA**
+- 🌱 I’m currently learning **Data Science & AI**
 
-- 👯 I’m looking to collaborate on **Proyectos relacionados con Machine Learning, IA y análisis de datos**
+- 👯 I’m looking to collaborate on **Projects related to Machine Learning, AI, and Data Analysis**
 
-- 🤝 I’m looking for help with **Desarrollador Full Stacks, Optimización de modelos de Machine Learning y despliegue en la nube**
+- 👏 I’m looking for help with **Full-Stack Development, Machine Learning Model Optimization, and Cloud Deployment**
 
-- 💬 Ask me about **Soy un profesional proactivo, analítico y creativo con experiencia en procesamiento, transformación y análisis de datos utilizando tecnologías como Python, SQL y Apache Spark. Además, tengo experiencia en el despliegue de modelos de machine learning e inteligencia artificial, con conocimiento en plataformas cloud como Azure, AWS y Huawei Cloud.**
+- 🗨️ Ask me about **Being a proactive, analytical, and creative professional with experience in data processing, transformation, and analysis using technologies like Python, SQL, and Apache Spark. I also have experience deploying machine learning and artificial intelligence models, with knowledge in cloud platforms such as Azure, AWS, and Huawei Cloud.**
 
-- 📫 How to reach me **camposj@pucp.edu.pe**
+- 📧 How to reach me: **camposj@pucp.edu.pe**
 
-- ⚡ Fun fact **¡Soy un apasionado por resolver problemas con los datos y la construcción de herramientas!**
+- ⚡ Fun fact: **I’m passionate about solving data problems and building tools!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
